@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rittick21
 - 👀 I’m interested in Web Application Development and Data Structures and Algorithms
-- 🌱 I’m currently learning HTML, CSS, JavaScript, C, C++, python basic, Java basic, reactJS, figma.
+- 🌱 I’m currently learning HTML, CSS, JavaScript, C, C++, python basic, Java basic, reactJS, nodeJS, MERN, COBOL, JCL, IBM Mainframes
 - 💞️ I’m looking to collaborate on proguct based Industries.
 - 📫 How to reach me Phone: 8017217462/9051572565
 - EMAIL: rkjob135@gmail.com
