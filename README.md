@@ -1,11 +1,9 @@
-- 👋 Hi, I’m @rittick21
-- 👀 I’m interested in Web Application Development and Data Structures and Algorithms
-- 🌱 I’m currently learning HTML, CSS, JavaScript, C, C++, python basic, Java basic, reactJS, nodeJS, MERN, COBOL, JCL, IBM Mainframes
-- 💞️ I’m looking to collaborate on proguct based Industries.
-- 📫 How to reach me Phone: 8017217462/9051572565
-- EMAIL: rkjob135@gmail.com
-- Facebook: https://www.facebook.com/rittick.roy.942/
-- Linkedin: https://www.linkedin.com/in/rittick-roy-05a07a225/
+💻⚡ Tech is my battlefield — and automation is my weapon!
+I’m a passionate Cyber Security 🛡️ enthusiast with a deep love for Operating Systems 🧠, Networking 🌐, and hands-on Infra Management ⚙️.
+I speak fluently in Python 🐍 and Bash 💥 — scripting my way through Automation 🤖 and system optimization.
+From Linux 🐧 to Windows 🪟, from Virtualization 🧩 to Hypervisors 🚀, I build, manage, and secure digital environments with precision.
+I explore Cisco Packet Tracer 🧠 for network design and master OS Firewalls 🔥 to keep threats at bay.
+Always learning, always evolving — because tech never sleeps 💪💡
 
 <!---
 rittick21/rittick21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
