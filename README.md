@@ -49,9 +49,12 @@ I integrate **APIs** 🔌 with precision using **Axios**, rigorously test them w
 
 ---
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rittick21&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=rittick21&theme=tokyonight&hide_border=true)
+```
+
+4. **Test if the service is working** - Open this URL directly in your browser:
+```
+https://streak-stats.demolab.com?user=rittick21&theme=tokyonight&hide_border=true
 
 <!---
 rittick21/rittick21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
